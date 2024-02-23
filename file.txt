@@ -1,2 +1,9 @@
 menambahkan file.txt
 menambahkan baris kode
+9f7b674 (HEAD -> master) menghapus file3.txt
+84d0244 melakukan perubahan di file1
+056cf7d melakukan perubahan di file3
+02ad917 menambah file2.txt
+5818ee5 menambahkan file.txt
+
+git diff 5818ee5 HEAD

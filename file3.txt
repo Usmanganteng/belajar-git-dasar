@@ -1,3 +1,4 @@
 menambahkan file3
 menambahkan feature/3
+menambah feature/b
 mmenambhakna baris terakhirs

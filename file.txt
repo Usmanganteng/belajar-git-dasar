@@ -7,5 +7,4 @@ menambahkan baris kode
 5818ee5 menambahkan file.txt
 feature/1
 menambahkan feature/a
-
-git diff 5818ee5 HEAD
+menambahkan feature/b

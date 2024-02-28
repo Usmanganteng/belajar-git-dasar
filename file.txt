@@ -6,5 +6,5 @@ menambahkan baris kode
 02ad917 menambah file2.txt
 5818ee5 menambahkan file.txt
 feature/1
-
+menambahkan feature/b
 git diff 5818ee5 HEAD

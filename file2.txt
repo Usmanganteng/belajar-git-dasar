@@ -1,3 +1,4 @@
 menambha file
 menambahkan feature/2
 menambahkan feature/a
+menambahkan feature merge squash

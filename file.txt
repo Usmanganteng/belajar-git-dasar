@@ -8,3 +8,4 @@ menambahkan baris kode
 feature/1
 menambahkan feature/a
 menambahkan feature/b
+git feature/merge-squash

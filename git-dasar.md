@@ -102,11 +102,8 @@ i) git blame
    a.git bisa berguna untuk berkerja tim dan sangat feleksibel karena ketika kita berganti device kita tidak perlu khawatir dengan projeck kita
 
 3. Kesimpulan
-
-    GIT adalah alat yang sangat penting dan bermanfaat bagi pengembang perangkat lunak untuk mengelola 
-    proyek mereka dengan efisien. Dengan kemampuannya yang kuat dalam version control, 
-    kolaborasi, dan branching, GIT sangat membantu dalam proses pengembangan perangkat lunak yang kompleks.
-
- 
- 
-   
+  -Git Branch memungkinkan kita untuk membuat cabang (branch) dari proyek utama dan bekerja pada cabang tersebut secara independen.
+  -Dengan branch, kita dapat mengembangkan fitur baru tanpa mengganggu pengembangan di branch utama.
+  -Konflik dapat terjadi saat menggabungkan perubahan dari branch yang berbeda, dan kita harus mengatasi konflik secara manual.
+  -Merge adalah proses menggabungkan perubahan dari satu branch ke branch lain.
+  -Cherry pick memungkinkan kita untuk memilih commit tertentu dari satu branch dan menerapkannya ke branch lain

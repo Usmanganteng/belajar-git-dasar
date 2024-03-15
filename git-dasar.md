@@ -1,14 +1,14 @@
 # GIT DASAR 
 
-1. Poin utama :
+##  Poin utama :
    
-a. Apa itu git?
+1. Apa itu git?
 
 Git, yang diciptakan oleh Linus Torvalds pada tahun 2005, menjadi populer karena
 sifatnya yang terdistribusi dan fleksibilitasnya, terutama dalam proyek-proyek sumber
 terbuka yang kolaboratif.
 
-b. Cara Kerja git
+2. Cara Kerja git
 
 1. Cara membuat repository git
  

@@ -2,7 +2,7 @@
 
 1. Poin utama :
    
-  A. Apa itu git?
+  - Apa itu git?
 
     Git, yang diciptakan oleh Linus Torvalds pada tahun 2005, menjadi populer karena
     sifatnya yang terdistribusi dan fleksibilitasnya, terutama dalam proyek-proyek sumber

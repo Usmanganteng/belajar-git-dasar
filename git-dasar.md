@@ -4,9 +4,9 @@
    
 1. Apa itu git?
 
-Git, yang diciptakan oleh Linus Torvalds pada tahun 2005, menjadi populer karena
-sifatnya yang terdistribusi dan fleksibilitasnya, terutama dalam proyek-proyek sumber
-terbuka yang kolaboratif.
+  - Git, yang diciptakan oleh Linus Torvalds pada tahun 2005, menjadi populer karena
+  sifatnya yang terdistribusi dan fleksibilitasnya, terutama dalam proyek-proyek sumber
+  terbuka yang kolaboratif.
 
 2. Cara Kerja git
 

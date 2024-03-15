@@ -99,7 +99,7 @@
 
 ##  catatan tambahan
    
-   a. git bisa berguna untuk berkerja tim dan sangat feleksibel karena ketika kita berganti device kita tidak perlu khawatir dengan projeck kita
+- git bisa berguna untuk berkerja tim dan sangat feleksibel karena ketika kita berganti device kita tidak perlu khawatir dengan projeck kita
 
 ## Kesimpulan
 - Git Branch memungkinkan kita untuk membuat cabang (branch) dari proyek utama dan bekerja pada cabang tersebut secara independen.

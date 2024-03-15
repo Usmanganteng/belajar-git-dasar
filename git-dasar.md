@@ -2,13 +2,13 @@
 
 ##  Poin utama :
    
-1. Apa itu git?
+### Apa itu git?
 
   - Git, yang diciptakan oleh Linus Torvalds pada tahun 2005, menjadi populer karena
   sifatnya yang terdistribusi dan fleksibilitasnya, terutama dalam proyek-proyek sumber
   terbuka yang kolaboratif.
 
-2. Cara Kerja git
+### Cara Kerja git
 
 1. Cara membuat repository git
  
@@ -40,7 +40,7 @@
   
 - Untuk membatalkan perubahan yang staging untuk commit, 'git restore --staged' dapat digunakan untuk memindahkan perubahan kembali ke working directory.
 
-c. git log 
+### git log 
 
 - Git memungkinkan Anda untuk melihat riwayat commit menggunakan perintah 'git log'.
   
@@ -52,7 +52,7 @@ c. git log
   
 - Perintah 'git diff' membandingkan perbedaan antara komit atau cabang.
 
-d. Reset commit
+### Reset commit
 
 - Menggunakan 'git reset' dengan opsi '--soft' memindahkan penunjuk HEAD ke commit yang berbeda tanpa mengubah staging index dan working directory, menjadikannya opsi yang aman untuk membatalkan komit.
  
@@ -64,7 +64,7 @@ d. Reset commit
  
 - Mengatur ulang commit dapat berguna untuk memperbaiki kesalahan atau menambahkan perubahan yang terlupakan sebelum membuat commit baru.
 
-e. amend commit
+### amend commit
 
 - Git menyediakan perintah 'git commit --amend' untuk menambahkan perubahan secara otomatis pada snapshot terakhir, menggabungkannya dengan perubahan pada commit sebelumnya.
  
@@ -72,7 +72,7 @@ e. amend commit
  
 - Ketika menggunakan 'git commit --amend', bahkan menambahkan satu karakter pun akan secara otomatis mengubah konten dan tanda tangan snapshot.
 
-f. git checkout
+### git checkout
 
 - Dengan menggunakan 'git checkout' untuk menavigasi ke commit tertentu, perubahan pada berkas dapat dilakukan secara bertahap, sehingga memungkinkan pemeriksaan tanpa mengubah repositori secara permanen.
  
@@ -80,7 +80,7 @@ f. git checkout
  
 - Perintah 'git checkout' seperti mesin waktu, memungkinkan pengguna untuk berpindah-pindah di antara snapshot yang berbeda dalam riwayat repositori.
 
-g. git revert
+### git revert
 
 - Fitur 'git revert' dari Git memungkinkan untuk membatalkan commit sebelumnya dengan membuat commit baru dengan perubahan yang berlawanan dengan perubahan yang dikembalikan.
  
@@ -88,20 +88,20 @@ g. git revert
  
 - Ketika menggunakan Git, perintah "git revert" dapat secara otomatis membatalkan perubahan yang dibuat pada commit tertentu, membuat commit baru dengan perubahan yang berlawanan.
 
-h. gitignore
+### gitignore
 
 - File .gitignore memungkinkan Anda menentukan file atau directory mana yang harus diabaikan oleh Git, berguna untuk mengecualikan file yang dibuat, log, atau jenis file tertentu dari kontrol versi.
 
-i. git blame
+### git blame
 
 - Perintah 'git blame' Git membantu melacak siapa yang membuat perubahan pada sebuah file dan kapan, memberikan tampilan terperinci tentang kepengarangan setiap baris dan komit terkait.
 
 
-2. catatan tambahan
+##  catatan tambahan
    
    a. git bisa berguna untuk berkerja tim dan sangat feleksibel karena ketika kita berganti device kita tidak perlu khawatir dengan projeck kita
 
-3. Kesimpulan
+## Kesimpulan
 - Git Branch memungkinkan kita untuk membuat cabang (branch) dari proyek utama dan bekerja pada cabang tersebut secara independen.
 
 - Dengan branch, kita dapat mengembangkan fitur baru tanpa mengganggu pengembangan di branch utama.

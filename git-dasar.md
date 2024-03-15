@@ -12,7 +12,7 @@
 
 1. Cara membuat repository git
  
-- Repositori git dapat diinisialisasi di dalam folder proyek yang sudah ada, baik yang kosong maupun yang berisi file. Untuk menginisialisasi repositori, gunakan perintah 'git init' di dalam terminal/git bash.
+- Repositori git dapat diinisialisasi di dalam folder proyek yang sudah ada, baik yang kosong maupun yang berisi file. Untuk menginisialisasi repositori, gunakan perintah `git init` di dalam terminal/git bash.
   
 - Setelah inisialisasi, sebuah folder baru bernama .git akan dibuat untuk menyimpan data repositori. Hindari memodifikasi konten folder ini.
   
